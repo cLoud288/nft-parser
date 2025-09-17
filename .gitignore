@@ -1,0 +1,23 @@
+.DS_Store
+Thumbs.db
+__MACOSX/
+.vscode/
+.idea/
+
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+.env
+*.env
+.env.*
+
+config.py
+
+# Данные парсинга (тяжёлые)
+collections/
+
+*.log
+*.tmp
